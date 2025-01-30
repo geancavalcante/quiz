@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background-image: url(assets/img/stars.jpg);
+    background-size: cover;
+    color: aliceblue;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 900;
+    font-size: 3.7rem ;
+}
